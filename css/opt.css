@@ -1,0 +1,75 @@
+@import 'common.css';
+
+.container .deportament {
+    display:block;
+}
+.title-deportament {
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 73px;
+    color: #000000;
+    padding-left: 149px;
+    padding-top: 106px;
+}
+.deportament-ice_hockey {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    padding-left: 426px;
+    padding-top: 67px;
+    color: #FFFFFF;
+}
+.img-price {
+    padding-left: 354px;
+    padding-top: 73px;
+}
+.title-Advantages {
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 73px;
+    padding-left: 154px;
+    padding-top: 73px;
+    color: #000000;
+}
+.txt_points {
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+    padding-left: 149px;
+    padding-top: 33px;
+    color: #FFFFFF;
+}
+.title_sale {
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 73px;
+    padding-left: 116px;
+    padding-top: 173px;
+    color: rgba(255, 213, 81, 0.91);
+}
+.table-sale-one {
+    display: flex;
+}
+.sale-one {
+    width: 1011px;
+    height: 574px;
+    padding-left: 104px;
+    padding-top: 41px;
+}
+.img-annual {
+    width: 854px;
+    padding-top: 158px;
+    padding-right: 113px;
+}
+.text-questions {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 19px;
+    padding-left: 394px;
+    padding-top: 23px;
+    color: #FFFFFF;
+}
+.garantee {
+    padding-left: 165px;
+    padding-top: 110px;
+}
